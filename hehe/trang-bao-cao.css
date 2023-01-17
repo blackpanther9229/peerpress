@@ -1,0 +1,43 @@
+.trang-bao-cao {
+  margin-top: 156px;
+  margin-bottom:156px;
+  display:flex;
+  flex-direction: row;
+ 
+  font-family: Inter;
+  font-weight:700;
+}
+.cot-doc-gia,.cot-highlight {
+  flex:1;
+  margin-left:200px;
+}
+.number,.doc-gia,.hightlight {
+  font-size:48px;
+  height:77px;
+
+}
+.quantifier {
+  font-size:32px;
+  height:55px;
+}
+.div-bao-cao-logo {
+  border: 1px solid black;
+  border-radius: 50%;
+  width:80px;
+  height:80px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  margin-top:28px;
+  margin-bottom:28px;
+} 
+.bao-cao-logo {
+  width:60px;
+  height:34.67px;
+} 
+.icon {
+  width:80px;
+  height:80px;
+  margin-top:28px;
+  margin-bottom:28px;
+}

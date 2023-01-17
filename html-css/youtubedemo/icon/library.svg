@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="streamingvideo-icon.svg"
+   viewBox="0 0 300.53595 288.2886"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="300.53595"
+   height="288.2886">
+  <defs
+     id="defs8876" />
+  <sodipodi:namedview
+     id="namedview4"
+     fit-margin-left="0"
+     inkscape:zoom="1.0040916"
+     borderopacity="1"
+     inkscape:current-layer="svg2"
+     inkscape:cx="-40.425569"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="1"
+     showgrid="false"
+     fit-margin-right="0"
+     showguides="true"
+     bordercolor="#666666"
+     inkscape:window-x="4"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:window-y="1"
+     fit-margin-bottom="0"
+     inkscape:window-width="1916"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     gridtolerance="10"
+     inkscape:cy="378.65388"
+     inkscape:window-height="1035"
+     fit-margin-top="0" />
+  <metadata
+     id="metadata8874">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date></dc:date>
+        <dc:description>remix by j4p4n</dc:description>
+        <dc:source></dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ben</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g9536"
+     transform="translate(-347.61203,-58.2975)">
+    <path
+       d="m 425.88,340.5864 c 0,-4.0446 2.00001,-6 6.1362,-6 3.375,0 9.45,-3.3138 13.5,-7.3638 6.1941,-6.1941 7.3638,-10.2441 7.3638,-25.5 0,-21.0444 -3.3384,-19.8357 41.49,-15.0189 52.005,5.5881 48.51,4.1727 48.51,19.6548 0,15.0735 9.7227,28.2276 20.8638,28.2276 4.1364,0 6.1362,1.95555 6.1362,6 0,5.8332 -2.00001,6 -72,6 -69.99999,0 -72,-0.1668 -72,-6 z m -74.4,-66.6 c -5.1573,-5.1573 -5.1573,-206.643 0,-211.8 5.1852,-5.1852 287.616,-5.1852 292.8,0 5.1573,5.1573 5.1573,206.643 0,211.8 -5.1852,5.1852 -287.616,5.1852 -292.8,0 z m 276.9,-18.8589 c 0,-6.6186 -9.3267,-9.9144 -14.217,-5.0241 -5.0424,5.0424 -0.0687,13.0116 7.4535,11.9433 4.4256,-0.62844 6.7635,-3.0201 6.7635,-6.9192 z m 1.5,-100.542 0,-78 -132,0 -132,0 0,78 0,78 132,0 132,0 z m -153.048,42.444 c -31.041,-16.4949 -32.268,-59.778 -2.23062,-78.639 12.7587,-8.0115 36.336,-6.7323 49.569,2.68977 11.7786,8.3871 20.148,29.3913 17.4474,43.788 -3.7572,20.0274 -25.3035,37.719 -45.939,37.719 -4.6164,0 -13.0971,-2.49969 -18.8463,-5.5548 z m 35.274,-40.26 c -0.43113,-1.29339 -6.5088,-5.7657 -13.506,-9.9381 l -12.7221,-7.5867 0,18.0963 0,18.0963 13.506,-8.1579 c 7.4283,-4.4868 13.1532,-9.2163 12.7221,-10.5096 z"
+       inkscape:connector-curvature="0"
+       style="fill:#000000"
+       sodipodi:nodetypes="ssssssssssssssssssscccccccccsssssssscccss"
+       id="path5774-0" />
+  </g>
+</svg>

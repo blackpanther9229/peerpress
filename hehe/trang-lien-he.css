@@ -1,0 +1,69 @@
+body {
+  margin:0px;
+  margin-top:37px;
+
+ 
+  
+
+  
+}
+.trang-lien-he {
+  display:flex;
+  flex-direction: row;
+  font-family: Inter;
+  font-size:32px;
+  margin-top:84px;
+  align-items: center;
+}
+.lien-he {
+  flex:1;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+ 
+  
+  
+}
+.tieu-de-lien-he {
+  font-weight: 700;
+
+}
+.ten,.email,.noi-dung {
+  margin-top:24px;
+  border:1px solid rgb(170, 170, 170);
+  height:59px;
+  width:549px;
+  display:flex;
+  align-items: center;
+  padding-left:5px;
+  
+}
+.thong-tin {
+  flex:1;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.thong-tin-cua-chung-toi {
+  font-weight: 700;
+}
+.phone-number,.gmail,.cac-mang-xa-hoi 
+ {
+  display: flex;
+  flex-direction: row;
+}
+.phone-number,.gmail,.mang-xa-hoi {
+  margin-top:50px;
+}
+
+.mang-xa-hoi {
+  font-weight:700;
+  margin-bottom:20px;
+}
+.icon {
+  height:40px;
+  width:40px;
+  margin-right:20px;
+}

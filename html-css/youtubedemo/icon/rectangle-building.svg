@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 54.585 36.433" version="1.1">
+  <g id="layer1" transform="translate(-267.45 -533.89)">
+    <g id="g3878" stroke="#000" stroke-width="15.539" transform="matrix(0 .064352 -.064352 0 28.349 571.92)" fill="none">
+      <rect id="rect3880" stroke-linejoin="bevel" transform="rotate(-90)" height="550.61" width="825.91" y="-583.3" x="3723.3"/>
+      <path id="path3882" d="m-307.99-3943.6v-385.43"/>
+      <path id="path3884" d="m-583.27-3723.3 275.29-227 275.29 227"/>
+      <path id="path3886" d="m-583.3-4556 275.3 227.02 275.3-227.02"/>
+      <path id="path3888" d="m-307.99-3998.6 275.3 220.24"/>
+      <path id="path3890" d="m-307.99-4053.7 275.3 220.24"/>
+      <path id="path3892" d="m-307.99-4108.8 275.3 220.24"/>
+      <path id="path3894" d="m-307.99-4163.8 275.3 220.24"/>
+      <path id="path3896" d="m-307.99-4218.9 275.3 220.24"/>
+      <path id="path3898" d="m-307.99-4273.9 275.3 220.24"/>
+      <path id="path3900" d="m-307.99-4329 275.3 220.24"/>
+      <path id="path3902" d="m-272.68-4352.7 239.99 188.85"/>
+      <path id="path3904" d="m-237.36-4384.2 204.67 165.3"/>
+      <path id="path3906" d="m-202.04-4411.8 169.35 137.83"/>
+      <path id="path3908" d="m-166.72-4439.4 134.03 110.36"/>
+      <path id="path3910" d="m-133.36-4467 100.67 82.893"/>
+      <path id="path3912" d="m-100.01-4496.5 67.317 57.385"/>
+      <path id="path3914" d="m-32.689-4494.2-33.96-27.953"/>
+      <path id="path3916" d="m-320.92-4344.6 81.04-204.67"/>
+      <path id="path3918" d="m-363.05-4379.9 68.111-169.35"/>
+      <path id="path3920" d="m-405.19-4415.2 55.182-134.03"/>
+      <path id="path3922" d="m-446.51-4448.6 41.445-100.67"/>
+      <path id="path3924" d="m-489.8-4481.9 29.67-67.317"/>
+      <path id="path3926" d="m-515.19-4549.2-13.971 33.96"/>
+      <path id="path3928" d="m-263.97-4365.2 71.054-178.18"/>
+      <path id="path3930" d="m-192.78-4424.5 54.691-126.67"/>
+      <path id="path3932" d="m-121.89-4482.4 26.727-62.902"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Rectangle Shaped Building</dc:title>
+        <dc:date>2013-08-02T04:41:27</dc:date>
+        <dc:description>A rectangle shaped building designed as a map element for overhead RPG maps.</dc:description>
+        <dc:source>http://openclipart.org/detail/181419/rectangle-shaped-building-by-evilestmark-181419</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>evilestmark</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>"top down"</rdf:li>
+            <rdf:li>BW</rdf:li>
+            <rdf:li>RPG</rdf:li>
+            <rdf:li>black and white</rdf:li>
+            <rdf:li>building</rdf:li>
+            <rdf:li>coloring book</rdf:li>
+            <rdf:li>house</rdf:li>
+            <rdf:li>inn</rdf:li>
+            <rdf:li>map</rdf:li>
+            <rdf:li>monochrome</rdf:li>
+            <rdf:li>top-down</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

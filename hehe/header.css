@@ -1,0 +1,81 @@
+.header {
+
+  display: flex;
+  flex-direction: column;
+  position:sticky;
+  top:0px;
+  background-color:white;
+}
+
+.header-top {
+
+  display:flex;
+  align-items: center;
+ 
+}
+.logo {
+  margin-left:67px;
+  height:124px;
+  width:216px;
+}
+.peerpress {
+  margin-left:40px;
+  height:73px;
+  width:417px;
+}
+.header-bottom {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(1, 139, 162);
+  color:white;
+  font-family: Arial;
+  Font-size:25px;
+  font-weight:bold;
+  
+  height:105px;
+  padding-left:305px;
+  padding-right:192px;
+  margin-left:12px;
+
+}
+.duongtodi,.truongtohoc,.roisaonua {
+  height: 28px;
+  width:214px;
+  white-space:nowrap;
+ 
+}
+
+.search-bar {
+  background-color: rgb(233,233,233);
+
+  display:flex;
+  align-items: center;
+  height:36px;
+  border-radius: 10px;
+  margin-left: 20px;
+  width:300px;
+  
+}
+.search-place {
+  
+  border:none;
+  background-color: rgb(233,233,233);
+  height:22x;
+  width:256px;
+  margin-right:8px;
+  padding-top:2px;
+  padding-bottom:1px;
+
+}
+.magnifyingglass {
+  height:22px;
+  width:22px;
+  margin-left:10px;
+  margin-right:4px;
+}
+.search-place::placeholder {
+  font-family:Arial;
+  font-size: 18px;
+  color:rgba(60, 60, 67, 0.6);
+}

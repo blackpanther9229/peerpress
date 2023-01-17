@@ -1,0 +1,35 @@
+.footer {
+  display:flex;
+  flex-direction: row;
+  padding:96px 159px;
+  background-color: rgb(182, 229, 157);
+  align-items: center;
+  justify-content: space-around ;
+  margin-top:217px;
+}
+.footer-left ,.footer-middle,.footer-right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Inter;
+  font-size:24px;
+}
+
+.doc-den {
+  width:315px;
+  height:256.71px;
+  margin-bottom:39px;
+}
+.cau-chuyen {
+  font-family:Inter;
+  font-size:32px;
+  width:315px;
+  text-align:center;
+}
+.ve-chung-toi,.chuyen-muc {
+  font-size:32px;
+  font-weight: 700;
+}
+.footer-lien-he,.bao-cao,.san-hoc-bong,.tai-dai-hoc,.sau-dai-hoc {
+  margin-top:8px;
+}
